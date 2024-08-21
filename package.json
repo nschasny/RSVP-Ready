@@ -1,0 +1,5 @@
+{
+    "name": "event-planner-frontend",
+    "version": "1.0.0",
+    "proxy": "http://localhost:5000"
+  }
